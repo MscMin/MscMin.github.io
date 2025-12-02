@@ -1,7 +1,3 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/MscMin/MscMin.github.io
-	branch = _public
 [submodule "content"]
 	path = content
 	url = https://github.com/MscMin/MscMin.github.io
