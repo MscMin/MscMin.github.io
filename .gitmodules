@@ -5,3 +5,7 @@
 [submodule "themes/Book"]
 	path = themes/Book
 	url = https://github.com/MscMin/hugo-book_MscMin
+[submodule "public"]
+	path = public
+	url = https://github.com/MscMin/MscMin.github.io
+	branch = _public
