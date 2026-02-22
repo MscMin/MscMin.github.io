@@ -6,3 +6,6 @@
 	path = content
 	url = https://github.com/MscMin/MscMin.github.io
 	branch = _content
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/MscMin/hugo-PaperMod-custom
