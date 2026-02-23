@@ -21,7 +21,7 @@ fi
 git commit -m "$msg"
 
 # 빌드 결과를 `source` 브랜치에 반영
-git push origin public
+git push origin _public
 
 # `main` 브랜치로 이동
 cd ..
